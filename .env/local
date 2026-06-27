@@ -1,0 +1,4 @@
+SUPABASE_URL=https://xrdtyxdkvbmqkfodfptz.supabase.co
+SUPABASE_SERVICE_KEY=e5ecd143-c8d1-45c1-b4fb-a7c22b3b0f90
+NOWPAYMENTS_API_KEY=твой_ключ
+NOWPAYMENTS_IPN_SECRET=твой_секрет
